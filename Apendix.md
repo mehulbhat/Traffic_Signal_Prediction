@@ -1,4 +1,4 @@
-# Apendix of the varioous traffic signals
+# Apendix of the various traffic signals
 
 The dataset consists of 43 different classes of images.
   Classes are as listed below:
